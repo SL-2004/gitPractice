@@ -1,0 +1,8 @@
+2. a)
+By having easy access to the entire history of a file, I can see where the problem occured in a program. By knowing this, I can easily identify the error, fix it, and learn not to make the same mistake again.
+
+2. b)
+I would want to have a version of my code saved when a large enough change was made so I have older versions that are different saved.
+ You would not want regular intervals because then it would be hard to look through all of the versions that have no or minimal changes. 
+You would not want after a long pause because a long pause doesn't necesarily indicate changes. 
+You would not want just when you choose to save a version because if you forget to save, then you are stuck.
